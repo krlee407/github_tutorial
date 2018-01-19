@@ -16,3 +16,4 @@ def chopchop(chop_list):
 	return dp[0][length-2]
 
 print(chopchop([10,20,5,30,15]))
+print(chopchop([10,20,5,30]))
